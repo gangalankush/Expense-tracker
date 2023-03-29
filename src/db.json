@@ -1,0 +1,140 @@
+{
+  "expense": [
+    {
+      "amount": "100",
+      "category": "food",
+      "notes": "gortz",
+      "date": "2023-03-16",
+      "user": "check@mail.com",
+      "id": 1
+    },
+    {
+      "amount": "635",
+      "category": "groceries",
+      "notes": "dummy",
+      "date": "2023-03-16",
+      "user": "monisha@gmail.com",
+      "id": 2
+    },
+    {
+      "amount": "345",
+      "category": "travel",
+      "notes": "study",
+      "date": "2023-03-08",
+      "user": "monisha@gmail.com",
+      "id": 3
+    },
+    {
+      "amount": "425",
+      "category": "travel",
+      "notes": "holiday",
+      "date": "2023-03-04",
+      "user": "monisha@gmail.com",
+      "id": 4
+    },
+    {
+      "amount": "534",
+      "category": "travel",
+      "notes": "BGHV",
+      "date": "2023-03-18",
+      "user": "monisha@gmail.com",
+      "id": 5
+    },
+    {
+      "amount": "100",
+      "category": "food",
+      "notes": "2e2",
+      "date": "2023-03-17",
+      "user": "ravi@mail.com",
+      "id": 6
+    },
+    {
+      "amount": "50",
+      "category": "food",
+      "notes": "",
+      "date": "2023-03-17",
+      "user": "ravi@mail.com",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "check",
+      "id": "check@mail.com",
+      "password": "12345"
+    },
+    {
+      "name": "Monisha G",
+      "id": "monisha@gmail.com",
+      "password": "monisha@12"
+    },
+    {
+      "name": "demo",
+      "id": "demo@mail.com",
+      "password": "12345"
+    },
+    {
+      "name": "ravi",
+      "id": "ravi@mail.com",
+      "password": "12345"
+    }
+  ],
+  "income": [
+    {
+      "amount": "243",
+      "category": "Blocked Amount",
+      "notes": "study",
+      "date": "2023-03-15",
+      "user": "monisha@gmail.com",
+      "id": 1
+    },
+    {
+      "amount": "12",
+      "category": "Salary",
+      "notes": "12",
+      "date": "2023-03-17",
+      "user": "ravi@mail.com",
+      "id": 2
+    },
+    {
+      "amount": "10",
+      "category": "Salary",
+      "notes": "dsjhgasj",
+      "date": "2023-03-14",
+      "user": "ravi@mail.com",
+      "id": 3
+    },
+    {
+      "amount": "12",
+      "category": "Salary",
+      "notes": "scsa",
+      "date": "2023-03-15",
+      "user": "ravi@mail.com",
+      "id": 4
+    },
+    {
+      "amount": "100",
+      "category": "Salary",
+      "notes": "12",
+      "date": "2023-03-17",
+      "user": "ravi@mail.com",
+      "id": 5
+    },
+    {
+      "amount": "123",
+      "category": "Salary",
+      "notes": "12",
+      "date": "2023-03-17",
+      "user": "ravi@mail.com",
+      "id": 6
+    },
+    {
+      "amount": "10",
+      "category": "Blocked Amount",
+      "notes": "svcs",
+      "date": "2023-03-17",
+      "user": "ravi@mail.com",
+      "id": 7
+    }
+  ]
+}

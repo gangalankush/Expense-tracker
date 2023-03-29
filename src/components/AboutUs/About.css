@@ -1,0 +1,9 @@
+.about{
+    display: flex;
+    gap: 20px;
+}
+
+.imgg{
+    background-image: image('aboutus.jpg');
+    height: 800px;
+}
